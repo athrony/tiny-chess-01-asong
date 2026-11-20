@@ -1,5 +1,9 @@
 # Tiny Chess
 
+[![make.fun · tiny-chess-01](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01)
+[![rank](https://make.fun/badge/tiny-chess-01/athrony/tiny-chess-01-asong/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard)
+[![reward](https://make.fun/badge/tiny-chess-01/athrony/tiny-chess-01-asong/reward.svg)](https://make.fun/bounty/tiny-chess-01)
+
 Original MIT-licensed Python 3.13 chess engine for tiny-chess-01.
 
 `main.py` contains the complete implementation in a bzip2-packed Latin-1
